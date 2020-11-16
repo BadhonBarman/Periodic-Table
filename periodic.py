@@ -154,22 +154,6 @@ elif giveme == "ca":
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 else:
 	print("something worng!" +
 	     "\nplease reload and type the Symbol of element correctly")
