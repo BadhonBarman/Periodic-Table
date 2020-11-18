@@ -151,6 +151,42 @@ elif giveme == "ca":
 		"\nAtomic mass:40".title() + 
 		"\nAtomic number:20".title() +"\nELECTRON CONFIGURATION:1s2 2s2 2p6 3s2 3p6 4s2")
 
+	
+#Scandium
+elif giveme == "sc":
+	print("position = Row:4, Colum:3" + 
+		"\nIt's Scandium".upper() + 
+		"\nAtomic mass:45".title() + 
+		"\nAtomic number:21".title() +"\nELECTRON CONFIGURATION:1s2 2s2 2p6 3s2 3p6 3d1 4s2")
+
+#Titanium
+elif giveme == "ti":
+	print("position = Row:4, Colum:4" + 
+		"\nIt's Titanium".upper() + 
+		"\nAtomic mass:48".title() + 
+		"\nAtomic number:22".title() +"\nELECTRON CONFIGURATION:1s2 2s2 2p6 3s2 3p6 3d2 4s2")
+
+#vanadium
+elif giveme == "v":
+	print("position = Row:4, Colum:5" + 
+		"\nIt's vanadium".upper() + 
+		"\nAtomic mass:51".title() + 
+		"\nAtomic number:23".title() +"\nELECTRON CONFIGURATION:1s2 2s2 2p6 3s2 3p6 3d3 4s2")
+
+#Chromium
+elif giveme == "cr":
+	print("position = Row:4, Colum:6" + 
+		"\nIt's Chromium".upper() + 
+		"\nAtomic mass:52".title() + 
+		"\nAtomic number:24".title() +"\nELECTRON CONFIGURATION:1s2 2s2 2p6 3s2 3p6 3d5 4s1")
+
+
+#Manganese
+elif giveme == "mn":
+	print("position = Row:4, Colum:7" + 
+		"\nIt's Manganese".upper() + 
+		"\nAtomic mass:55".title() + 
+		"\nAtomic number:25".title() +"\nELECTRON CONFIGURATION:1s2 2s2 2p6 3s2 3p6 3d5 4s2")
 
 
 
